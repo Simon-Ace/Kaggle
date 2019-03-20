@@ -13,13 +13,13 @@ CSDN：https://blog.csdn.net/shuofxz
 
 ### Digit Recognizer
 
-[「笔记 & 代码」](.\Getting-Started\digit-recognizer)
+[「笔记 & 代码」](Getting-Started/digit-recognizer)
 
 第一个入门的比赛，对大佬写的代码进行复现。
 
 ### Dogs vs. Cats Redux: Kernels Edition
 
-[「笔记 & 代码」](.\Playground\Dogs-vs-Cats)
+[「笔记 & 代码」](Playground/Dogs-vs-Cats)
 
 第二个比赛，在别人代码基础上进行修改，修改网络结构，尝试各种数据增强，踩了很多坑。了解了一些过拟合、欠拟合处理方法，以及模型设计上注意事项。
 
