@@ -6,8 +6,9 @@
 data/
 
 # 这些比赛不需要
-Titanic/
 /Playground/Humpback Whale Identification Challenge/
+Humpback Whale Identification/
+Leaf_Classification/
 
 
 # 下载的各种数据or代码
